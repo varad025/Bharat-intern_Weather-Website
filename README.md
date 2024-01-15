@@ -19,7 +19,7 @@ Welcome to the Weather Website project! This application provides real-time weat
 
 To run this project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/weather-website.git`
+1. Clone this repository: `https://github.com/varad025/Bharat-intern_Weather-Website
 2. Open the `index.html` file in your preferred web browser.
 
 ## How to Contribute
